@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: sandexplosion
+Specification-Vendor: you
+Specification-Version: 1
+Implementation-Title: sandexplosion-forge
+Implementation-Version: 1.0.2
+Implementation-Vendor: you
+MixinConfigs: sandexplosion.mixins.json
+

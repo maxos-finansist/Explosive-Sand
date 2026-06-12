@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/sandexplosion/mixin/FallingBlockEntityMixin": {
+      "tick": "Lnet/minecraft/world/entity/item/FallingBlockEntity;m_8119_()V"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/sandexplosion/mixin/FallingBlockEntityMixin": {
+        "tick": "Lnet/minecraft/world/entity/item/FallingBlockEntity;m_8119_()V"
+      }
+    }
+  }
+}
